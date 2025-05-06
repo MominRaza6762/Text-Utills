@@ -21,15 +21,15 @@
 To run this project locally, follow these steps:
 
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/text-utils.git
-cd text-utils
+  // Clone the repository
+  git clone https://github.com/your-username/text-utils.git
+  cd text-utils
 
-# Install dependencies
-npm install
+  // Install dependencies
+  npm install
 
-# Start the development server
-npm start
+  // Start the development server
+  npm start
 ````
 
 ## 📂 Folder Structure
